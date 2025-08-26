@@ -19,7 +19,8 @@ A minimalistic template for kickstarting React projects with Vite and TypeScript
 
 Make sure you have the following installed on your development machine:
 
-- Node.js (version 16 or above)
+- Node.js (version 16 or above)vdfvdf
+- 
 - Yarn (package manager)
 
 ## 🚀 Getting Started
